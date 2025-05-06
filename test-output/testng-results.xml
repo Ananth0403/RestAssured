@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-05T19:38:33 IST" name="Default suite" finished-at="2025-05-05T19:38:35 IST" duration-ms="1502">
+  <suite started-at="2025-05-06T22:43:31 IST" name="Default suite" finished-at="2025-05-06T22:43:37 IST" duration-ms="6220">
     <groups>
     </groups>
-    <test started-at="2025-05-05T19:38:33 IST" name="Default test" finished-at="2025-05-05T19:38:35 IST" duration-ms="1502">
+    <test started-at="2025-05-06T22:43:31 IST" name="Default test" finished-at="2025-05-06T22:43:37 IST" duration-ms="6220">
       <class name="authvalidation.CourseDetails">
-        <test-method signature="getCourse()[pri:0, instance:authvalidation.CourseDetails@4b0d79fc]" started-at="2025-05-05T19:38:33 IST" name="getCourse" finished-at="2025-05-05T19:38:35 IST" duration-ms="1459" status="PASS">
+        <test-method signature="getCourse()[pri:0, instance:authvalidation.CourseDetails@4b0d79fc]" started-at="2025-05-06T22:43:31 IST" name="getCourse" finished-at="2025-05-06T22:43:37 IST" duration-ms="6108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCourse -->
