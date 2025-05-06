@@ -14,6 +14,7 @@ public class CourseDetails {
 		.formParam("scope","trust")
 		.when().log().all().post("https://rahulshettyacademy.com/oauthapi/oauth2/resourceOwner/token").then().extract().response().asString();
 		System.out.println(response);
+//		
 	}
 
 }
